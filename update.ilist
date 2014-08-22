@@ -2,4 +2,4 @@ romove .minecraft/gregtech.lang
 remove .minecraft/mods/GregTech.jar
 remove .minecraft/mods/gregtech-5.03j.jar
 get .minecraft/gregtech.lang https://raw.githubusercontent.com/DeckerCHAN/Gregtech5-Translation-Chinese/master/Chinese/1.7.2/GregTech.lang
-get .minecraft/mods/gregtech-5.03k.jar http://58.218.207.229:22550/modupdate/mods/gregtech-5.03k.jar
+get .minecraft/mods/gregtech-5.03k.jar http://58.218.207.229:22550/mods/gregtech-5.03k.jar
