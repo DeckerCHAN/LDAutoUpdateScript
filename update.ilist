@@ -3,7 +3,9 @@ remove .minecraft/mods/GregTech.jar
 remove .minecraft/mods/gregtech-5.03j.jar
 remove .minecraft/mods/gregtech-5.03k.jar
 remove .minecraft/mods/gregtech-1.7.jar
+remove .minecraft/config/TwilightForest.cfg
 get .minecraft/gregtech.lang https://raw.githubusercontent.com/DeckerCHAN/Gregtech5-Translation-Chinese/master/Chinese/1.7.2/GregTech.lang
 get .minecraft/mods/gregtech-5.03n.jar http://58.218.207.229:22550/modupdate/mods/gregtech-5.03n.jar
 get .minecraft/mods/ThaumicTinkerer-2.4-306.jar http://58.218.207.229:22550/modupdate/mods/ThaumicTinkerer-2.4-306.jar
 get .minecraft/mods/twilightforest-1.7.2-2.2.3.jar http://58.218.207.229:22550/modupdate/mods/twilightforest-1.7.2-2.2.3.jar
+get .minecraft/config/TwilightForest.cfg http://58.218.207.229:22550/modupdate/mods/TwilightForest.cfg
