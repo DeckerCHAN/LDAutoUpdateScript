@@ -1,10 +1,4 @@
-romove .minecraft/gregtech.lang
-remove .minecraft/mods/GregTech.jar
-remove .minecraft/mods/gregtech-5.03j.jar
-remove .minecraft/mods/gregtech-5.03k.jar
-remove .minecraft/mods/gregtech-1.7.jar
-remove .minecraft/mods/gregtech-5.03n.jar
-remove .minecraft/config/TwilightForest.cfg
 get .minecraft/gregtech.lang https://raw.githubusercontent.com/DeckerCHAN/Gregtech5-Translation-Chinese/master/Chinese/1.7.2/GregTech.lang
-get .minecraft/mods/gregtech-5.03o.jar http://58.218.207.229:22550/modupdate/mods/gregtech-5.03o.jar
-get .minecraft/config/TwilightForest.cfg http://58.218.207.229:22550/modupdate/mods/TwilightForest.cfg
+get .minecraft/mods/CodeChickenCore-1.7.10-1.0.2.9-dev.jar http://58.218.207.229:22550/modupdate/mods/CodeChickenCore-1.7.10-1.0.2.9-dev.jar
+get .minecraft/mods/InputFix-1.7.x-v2.jar http://58.218.207.229:22550/modupdate/mods/InputFix-1.7.x-v2.jar
+get .minecraft/mods/NotEnoughItems-1.7.10-1.0.2.15-dev.jar http://58.218.207.229:22550/modupdate/mods/NotEnoughItems-1.7.10-1.0.2.15-dev.jar
