@@ -1,8 +1,10 @@
-remove .minecraft/gregtech.lang
-remove .minecraft/mods/CodeChickenCore-1.7.10-1.0.2.9-dev.jar
-remove .minecraft/mods/InputFix-1.7.x-v2.jar
-remove .minecraft/mods/NotEnoughItems-1.7.10-1.0.2.15-dev.jar
+romove .minecraft/gregtech.lang
+remove .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.jar
+remove .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.json
+remove .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-157.jar
+remove .minecraft/mods/Waila-1.5.3a_1.7.10.jar
 get .minecraft/gregtech.lang https://raw.githubusercontent.com/DeckerCHAN/Gregtech5-Translation-Chinese/master/Chinese/1.7.2/GregTech.lang
-get .minecraft/mods/CodeChickenCore-1.7.10-1.0.2.9-dev.jar http://58.218.207.229:22550/modupdate/mods/CodeChickenCore-1.7.10-1.0.2.9-dev.jar
-get .minecraft/mods/InputFix-1.7.x-v2.jar http://58.218.207.229:22550/modupdate/mods/InputFix-1.7.x-v2.jar
-get .minecraft/mods/NotEnoughItems-1.7.10-1.0.2.15-dev.jar http://58.218.207.229:22550/modupdate/mods/NotEnoughItems-1.7.10-1.0.2.15-dev.jar
+get .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.jar http://58.218.207.229:22550/modupdate/mods/1.7.10-Forge10.13.0.1208.jar
+get .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.json http://58.218.207.229:22550/modupdate/mods/1.7.10-Forge10.13.0.1208.json
+get .minecraft/mods/Waila-1.5.3a_1.7.10.jar http://58.218.207.229:22550/modupdate/mods/Waila-1.5.3a_1.7.10.jar
+get .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-158.jar http://58.218.207.229:22550/modupdate/mods/ThaumicTinkerer-2.5-1.7.10-158.jar
