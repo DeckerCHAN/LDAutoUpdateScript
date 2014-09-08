@@ -3,7 +3,7 @@ remove .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.jar
 remove .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.json
 remove .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-157.jar
 remove .minecraft/mods/Waila-1.5.3a_1.7.10.jar
-get .minecraft/gregtech.lang https://raw.githubusercontent.com/DeckerCHAN/Gregtech5-Translation-Chinese/master/Chinese/1.7.2/GregTech.lang
+get .minecraft/gregtech.lang https://raw.githubusercontent.com/Trigonometry-F/Gregtech5-Translation-Chinese/master/Chinese/GregTech.lang
 get .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.jar http://58.218.207.229:22550/modupdate/mods/1.7.10-Forge10.13.0.1208.jar
 get .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.json http://58.218.207.229:22550/modupdate/mods/1.7.10-Forge10.13.0.1208.json
 get .minecraft/mods/Waila-1.5.3a_1.7.10.jar http://58.218.207.229:22550/modupdate/mods/Waila-1.5.3a_1.7.10.jar
