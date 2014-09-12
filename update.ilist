@@ -1,10 +1,8 @@
 romove .minecraft/gregtech.lang
-remove .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.jar
-remove .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.json
-remove .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-157.jar
-remove .minecraft/mods/Waila-1.5.3a_1.7.10.jar
+remove .minecraft/mods/industrialcraft-2-2.2.633-experimental.jar
+remove .minecraft/mods/gregtech_1.7.10-5.04.02.jar
+remove .minecraft/mods/appliedenergistics2-rv1-beta-20.jar
 get .minecraft/gregtech.lang https://raw.githubusercontent.com/Trigonometry-F/Gregtech5-Translation-Chinese/master/Chinese/GregTech.lang
-get .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.jar http://58.218.207.229:22550/modupdate/mods/1.7.10-Forge10.13.0.1208.jar
-get .minecraft/.minecraft/versions/LibertyDome/1.7.10-Forge10.13.0.1208.json http://58.218.207.229:22550/modupdate/mods/1.7.10-Forge10.13.0.1208.json
-get .minecraft/mods/Waila-1.5.3a_1.7.10.jar http://58.218.207.229:22550/modupdate/mods/Waila-1.5.3a_1.7.10.jar
-get .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-158.jar http://58.218.207.229:22550/modupdate/mods/ThaumicTinkerer-2.5-1.7.10-158.jar
+get .minecraft/mods/gregtech_1.7.10-5.04.05.jar
+get .minecraft/mods/appliedenergistics2-rv1-beta-28.jar
+get .minecraft/mods/industrialcraft-2-2.2.645-experimental.jar
