@@ -1,11 +1,11 @@
 romove .minecraft/gregtech.lang
 remove .minecraft/mods/industrialcraft-2-2.2.633-experimental.jar
-remove .minecraft/mods/gregtech_1.7.10-5.04.02.jar
+remove .minecraft/mods/gregtech_1.7.10-5.04.05.jar
 remove .minecraft/mods/appliedenergistics2-rv1-beta-20.jar
 remove .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-158.jar
 remove .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-157.jar
 get .minecraft/gregtech.lang https://raw.githubusercontent.com/Trigonometry-F/Gregtech5-Translation-Chinese/master/Chinese/GregTech.lang
-get .minecraft/mods/gregtech_1.7.10-5.04.05.jar http://58.218.207.229:22550/modupdate/mods/gregtech_1.7.10-5.04.05.jar
+get .minecraft/mods/gregtech_1.7.10-5.05.00.jar http://58.218.207.229:22550/modupdate/mods/gregtech_1.7.10-5.05.00.jar
 get .minecraft/mods/appliedenergistics2-rv1-beta-28.jar http://58.218.207.229:22550/modupdate/mods/appliedenergistics2-rv1-beta-28.jar
 get .minecraft/mods/industrialcraft-2-2.2.645-experimental.jar http://58.218.207.229:22550/modupdate/mods/industrialcraft-2-2.2.645-experimental.jar
 get .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-158.jar http://58.218.207.229:22550/modupdate/mods/ThaumicTinkerer-2.5-1.7.10-158.jar
