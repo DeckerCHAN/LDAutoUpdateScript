@@ -1,8 +1,8 @@
 romove .minecraft/gregtech.lang
 remove .minecraft/mods/gregtech_1.7.10-5.05.06.jar
 remove .minecraft/mods/appliedenergistics2-rv1-beta-35.jar
-remove .minecraft/mods/forestry_1.7.10-3.0.0.92.jar
+remove .minecraft/mods/forestry_1.7.10-3.0.0.197.jar
 get .minecraft/gregtech.lang https://raw.githubusercontent.com/Trigonometry-F/Gregtech5-Translation-Chinese/master/Chinese/GregTech.lang
 get .minecraft/mods/gregtech_1.7.10-5.05.07.jar http://58.218.207.229:22550/modupdate/mods/gregtech_1.7.10-5.05.07.jar
 get .minecraft/mods/appliedenergistics2-rv1-beta-37.jar http://58.218.207.229:22550/modupdate/mods/appliedenergistics2-rv1-beta-37.jar
-get .minecraft/mods/forestry_1.7.10-3.0.0.197.jar http://58.218.207.229:22550/modupdate/mods/forestry_1.7.10-3.0.0.197.jar
+get .minecraft/mods/forestry_1.7.10-3.0.0.92.jar http://58.218.207.229:22550/modupdate/mods/forestry_1.7.10-3.0.0.92.jar
