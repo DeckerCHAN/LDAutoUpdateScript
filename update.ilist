@@ -7,3 +7,5 @@ remove .minecraft/mods/gregtech_1.7.10-5.05.07.jar
 remove .minecraft/mods/industrialcraft-2-2.2.646-experimental.jar
 get .minecraft/mods/gregtech_1.7.10-5.05.10.jar http://58.218.207.229:22550/modupdate/mods/gregtech_1.7.10-5.05.10.jar
 get .minecraft/mods/industrialcraft-2-2.2.647-experimental.jar http://58.218.207.229:22550/modupdate/mods/industrialcraft-2-2.2.647-experimental.jar
+remove .minecraft/server.dat
+get .minecraft/server.dat http://58.218.207.229:22550/modupdate/mods/server.dat
