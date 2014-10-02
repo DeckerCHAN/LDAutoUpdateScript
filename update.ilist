@@ -10,3 +10,5 @@ get .minecraft/mods/industrialcraft-2-2.2.647-experimental.jar http://58.218.207
 remove .minecraft/server.dat
 remove .minecraft/servers.dat
 get .minecraft/servers.dat http://58.218.207.229:22550/modupdate/mods/servers.dat
+remove .minecraft/mods/twilightforest-1.7.10-2.3.1.jar
+get .minecraft/mods/twilightforest-1.7.10-2.3.2.jar http://58.218.207.229:22550/modupdate/mods/twilightforest-1.7.10-2.3.2.jar
