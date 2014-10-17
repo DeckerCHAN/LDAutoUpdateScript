@@ -1,19 +1,5 @@
-romove .minecraft/gregtech.lang
-remove .minecraft/mods/gregtech_1.7.10-5.05.06.jar
-remove .minecraft/mods/appliedenergistics2-rv1-beta-35.jar
-remove .minecraft/mods/forestry_1.7.10-3.0.0.197.jar
-remove .minecraft/mods/gregtech_1.7.10-5.05.07.jar
-remove .minecraft/mods/industrialcraft-2-2.2.646-experimental.jar
-remove .minecraft/mods/industrialcraft-2-2.2.647-experimental.jar
-remove .minecraft/server.dat
-remove .minecraft/servers.dat
-remove .minecraft/mods/twilightforest-1.7.10-2.3.1.jar
-remove .minecraft/mods/Thaumcraft-1.7.10-4.2.0.1.jar
-get .minecraft/mods/twilightforest-1.7.10-2.3.2.jar http://58.218.207.229:22550/modupdate/mods/twilightforest-1.7.10-2.3.2.jar
+get .minecraft/mods/gregtech_1.7.10-5.05.12.jar http://libertydomemod.b0.upaiyun.com/gregtech_1.7.10-5.05.12.jar
+get .minecraft/mods/industrialcraft-2-2.2.650-experimental.jar http://libertydomemod.b0.upaiyun.com/industrialcraft-2-2.2.650-experimental.jar
 get .minecraft/gregtech.lang https://raw.githubusercontent.com/Trigonometry-F/Gregtech5-Translation-Chinese/master/Chinese/GregTech.lang
-get .minecraft/servers.dat http://58.218.207.229:22550/modupdate/mods/servers.dat
-get .minecraft/mods/gregtech_1.7.10-5.05.10.jar http://58.218.207.229:22550/modupdate/mods/gregtech_1.7.10-5.05.10.jar
-get .minecraft/mods/Thaumcraft-1.7.10-4.2.1.3.jar http://58.218.207.229:22550/modupdate/mods/Thaumcraft-1.7.10-4.2.1.3.jar
-get .minecraft/mods/1.7.10/Baubles-1.7.10-1.0.1.8.jar http://58.218.207.229:22550/modupdate/mods/Baubles-1.7.10-1.0.1.8.jar
-get .minecraft/mods/industrialcraft-2-2.2.648-experimental.jar http://58.218.207.229:22550/modupdate/mods/industrialcraft-2-2.2.648-experimental.jar
-get .minecraft/mods/WailaHarvestability-mc1.7.x-1.1.0.jar http://58.218.207.229:22550/modupdate/mods/WailaHarvestability-mc1.7.x-1.1.0.jar
+remove .minecraft/mods/gregtech_1.7.10-5.05.10.jar
+remove.minecraft/mods/industrialcraft-2-2.2.648-experimental.jar
