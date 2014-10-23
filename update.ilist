@@ -2,7 +2,7 @@ remove .minecraft/mods/gregtech_1.7.10-5.05.10.jar
 remove .minecraft/mods/industrialcraft-2-2.2.648-experimental.jar
 remove .minecraft/mods/forestry_1.7.10-3.0.0.92.jar
 remove .minecraft/servers.dat
-get .minecraft/servers.dat http://libertydomemod.b0.upaiyun.com/server.dat
+get .minecraft/servers.dat http://libertydomemod.b0.upaiyun.com/servers.dat
 get .minecraft/mods/gregtech_1.7.10-5.05.12.jar http://libertydomemod.b0.upaiyun.com/gregtech_1.7.10-5.05.12.jar
 get .minecraft/mods/industrialcraft-2-2.2.650-experimental.jar http://libertydomemod.b0.upaiyun.com/industrialcraft-2-2.2.650-experimental.jar
 get .minecraft/gregtech.lang https://raw.githubusercontent.com/Trigonometry-F/Gregtech5-Translation-Chinese/master/Chinese/GregTech.lang
