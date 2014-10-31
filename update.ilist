@@ -5,7 +5,6 @@ remove .minecraft/servers.dat
 remove .minecraft/mods/gregtech_1.7.10-5.05.12.jar
 remove .minecraft/mods/ShadersModCore-v2.3.28-mc1.7.10-f.jar
 remove .minecraft/mods/gregtech_1.7.10-5.05.13.jar
-remove .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-158.jar
 remove .minecraft/mods/Railcraft_1.7.10-9.3.1.0.jar
 get .minecraft/servers.dat http://libertydomemod.b0.upaiyun.com/servers.dat
 get .minecraft/mods/industrialcraft-2-2.2.650-experimental.jar http://libertydomemod.b0.upaiyun.com/industrialcraft-2-2.2.650-experimental.jar
