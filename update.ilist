@@ -1,11 +1,11 @@
-remove [T]gregtech_1.7.10-5.06.05.jar
-remove [T]industrialcraft-2-2.2.653-experimental.jar
-remove [T]buildcraft-6.1.7.jar
-remove [T]forestry_1.7.10-3.1.1.286-unstable.jar
-remove [T]OpenComputers-MC1.7.10-1.4.0.6-rc.1-universal.jar
-get [T]gregtech_1.7.10-5.06.06.jar http://libertydomemod.b0.upaiyun.com/[T]gregtech_1.7.10-5.06.06.jar
-get [T]industrialcraft-2-2.2.654-experimental.jar http://libertydomemod.b0.upaiyun.com/[T]industrialcraft-2-2.2.654-experimental.jar
-get [T]buildcraft-6.2.0.jar http://libertydomemod.b0.upaiyun.com/[T]buildcraft-6.2.0.jar
-get [T]forestry_1.7.10-3.1.1.293-unstable.jar http://libertydomemod.b0.upaiyun.com/[T]forestry_1.7.10-3.1.1.293-unstable.jar
-get [O]UniSkinMod-1.7.10-1.2-dev3.jar http://libertydomemod.b0.upaiyun.com/[O]UniSkinMod-1.7.10-1.2-dev3.jar
-get [T]OpenComputers-MC1.7.10-1.4.1.14-universal.jar http://libertydomemod.b0.upaiyun.com/OpenComputers-MC1.7.10-1.4.1.14-universal.jar
+remove .minecraft/mods/[T]gregtech_1.7.10-5.06.05.jar
+remove .minecraft/mods/[T]industrialcraft-2-2.2.653-experimental.jar
+remove .minecraft/mods/[T]buildcraft-6.1.7.jar
+remove .minecraft/mods/[T]forestry_1.7.10-3.1.1.286-unstable.jar
+remove .minecraft/mods/[T]OpenComputers-MC1.7.10-1.4.0.6-rc.1-universal.jar
+get .minecraft/mods/[T]gregtech_1.7.10-5.06.06.jar http://libertydomemod.b0.upaiyun.com/[T]gregtech_1.7.10-5.06.06.jar
+get .minecraft/mods/[T]industrialcraft-2-2.2.654-experimental.jar http://libertydomemod.b0.upaiyun.com/[T]industrialcraft-2-2.2.654-experimental.jar
+get .minecraft/mods/[T]buildcraft-6.2.0.jar http://libertydomemod.b0.upaiyun.com/[T]buildcraft-6.2.0.jar
+get .minecraft/mods/[T]forestry_1.7.10-3.1.1.293-unstable.jar http://libertydomemod.b0.upaiyun.com/[T]forestry_1.7.10-3.1.1.293-unstable.jar
+get .minecraft/mods/[O]UniSkinMod-1.7.10-1.2-dev3.jar http://libertydomemod.b0.upaiyun.com/[O]UniSkinMod-1.7.10-1.2-dev3.jar
+get .minecraft/mods/[T]OpenComputers-MC1.7.10-1.4.1.14-universal.jar http://libertydomemod.b0.upaiyun.com/OpenComputers-MC1.7.10-1.4.1.14-universal.jar
