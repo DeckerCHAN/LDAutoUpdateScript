@@ -1,18 +1,1 @@
-remove .minecraft/mods/gregtech_1.7.10-5.05.10.jar
-remove .minecraft/mods/industrialcraft-2-2.2.648-experimental.jar
-remove .minecraft/mods/forestry_1.7.10-3.0.0.92.jar
-remove .minecraft/servers.dat
-remove .minecraft/mods/gregtech_1.7.10-5.05.12.jar
-remove .minecraft/mods/ShadersModCore-v2.3.28-mc1.7.10-f.jar
-remove .minecraft/mods/gregtech_1.7.10-5.05.13.jar
-remove .minecraft/mods/Railcraft_1.7.10-9.3.1.0.jar
-remove .minecraft/mods/gregtech_1.7.10-5.06.00.jar
-remove .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-158.jar
-get .minecraft/servers.dat http://libertydomemod.b0.upaiyun.com/servers.dat
-get .minecraft/mods/industrialcraft-2-2.2.650-experimental.jar http://libertydomemod.b0.upaiyun.com/industrialcraft-2-2.2.650-experimental.jar
-get .minecraft/gregtech.lang https://raw.githubusercontent.com/Trigonometry-F/Gregtech5-Translation-Chinese/master/Chinese/GregTech.lang
-get .minecraft/mods/forestry_1.7.10-3.0.0.187.jar http://libertydomemod.b0.upaiyun.com/forestry_1.7.10-3.0.0.187.jar
-get .minecraft/mods/Fastcraft-1.9.jar http://libertydomemod.b0.upaiyun.com/Fastcraft-1.9.jar
-get .minecraft/mods/gregtech_1.7.10-5.06.02.jar http://libertydomemod.b0.upaiyun.com/gregtech_1.7.10-5.06.02.jar
-get .minecraft/mods/Railcraft_1.7.10-9.3.3.0.jar http://libertydomemod.b0.upaiyun.com/Railcraft_1.7.10-9.3.3.0.jar
-get .minecraft/mods/ThaumicTinkerer-2.5-1.7.10-399.jar http://libertydomemod.b0.upaiyun.com/ThaumicTinkerer-2.5-1.7.10-399.jar
+
