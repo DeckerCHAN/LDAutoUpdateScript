@@ -1,2 +1,6 @@
-remove .minecraft/mods
-get .minecraft/mods http://libertydomemod.b0.upaiyun.com/mods
+get .minecraft/mods/gregtech_1.7.10-5.06.06.jar http://libertydomemod.b0.upaiyun.com/gregtech_1.7.10-5.06.06.jar
+get .minecraft/mods/industrialcraft-2-2.2.654-experimental.jar http://libertydomemod.b0.upaiyun.com/industrialcraft-2-2.2.654-experimental.jar
+get .minecraft/mods/buildcraft-6.2.0.jar http://libertydomemod.b0.upaiyun.com/buildcraft-6.2.0.jar 
+get .minecraft/mods/forestry_1.7.10-3.1.1.293-unstable.jar http://libertydomemod.b0.upaiyun.com/forestry_1.7.10-3.1.1.293-unstable.jar
+get .minecraft/mods/UniSkinMod-1.7.10-1.2-dev3.jar http://libertydomemod.b0.upaiyun.com/UniSkinMod-1.7.10-1.2-dev3.jar
+get .minecraft/mods/OpenComputers-MC1.7.10-1.4.1.14-universal.jar http://libertydomemod.b0.upaiyun.com/OpenComputers-MC1.7.10-1.4.1.14-universal.jar
