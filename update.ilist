@@ -6,4 +6,4 @@ remove .minecraft/mods/T-OpenComputers-MC1.7.10-1.4.1.14-universal.jar
 remove .minecraft/mods/T-industrialcraft-2-2.2.654-experimental.jar
 get .minecraft/mods/T-buildcraft-6.2.4.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-6.2.4.jar
 get .minecraft/mods/T-industrialcraft-2-2.2.656-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.656-experimental.jar
-get .minecraft/mods/T-forestry_1.7.10-3.1.1.324-unstable.jar http://libertydomemod.b0.upaiyun.com/forestry_1.7.10-3.1.1.324-unstable.jar
+get .minecraft/mods/T-forestry_1.7.10-3.1.1.324-unstable.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.1.1.324-unstable.jar
