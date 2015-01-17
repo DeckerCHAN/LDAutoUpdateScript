@@ -7,12 +7,12 @@ remove .minecraft/mods/T-forestry_1.7.10-3.3.0.407-unstable.jar
 remove .minecraft/mods/T-industrialcraft-2-2.2.659-experimental.jar
 remove .minecraft/mods/T-buildcraft-6.3.0.jar
 remove .minecraft/mods/M-Thaumcraft-1.7.10-4.2.3.0.jar
+remove .minecraft/mods/C-MicdoodleCore-1.7-3.0.7.254.jar
+remove .minecraft/mods/C-GalacticraftCore-1.7-3.0.7.254.jar
+remove .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.7.254.jar
 get .minecraft/mods/T-industrialcraft-2-2.2.660-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.660-experimental.jar
 get .minecraft/mods/T-forestry_1.7.10-3.3.0.422-unstable.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.3.0.422-unstable.jar
 get .minecraft/mods/T-buildcraft-6.3.1.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-6.3.1.jar
 get .minecraft/mods/M-Thaumcraft-1.7.10-4.2.3.2.jar http://libertydomemod.b0.upaiyun.com/M-Thaumcraft-1.7.10-4.2.3.2.jar
 get .minecraft/mods/T-gregtech_1.7.10-5.07.06.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.07.06.jar
-get .minecraft/mods/C-MicdoodleCore-1.7-3.0.7.254.jar http://libertydomemod.b0.upaiyun.com/C-MicdoodleCore-1.7-3.0.7.254.jar
-get .minecraft/mods/C-GalacticraftCore-1.7-3.0.7.254.jar http://libertydomemod.b0.upaiyun.com/C-GalacticraftCore-1.7-3.0.7.254.jar
-get .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.7.254.jar http://libertydomemod.b0.upaiyun.com/A-Galacticraft-Planets-1.7-3.0.7.254.jar
 get .minecraft/config/BetterFonts.cfg http://libertydomemod.b0.upaiyun.com/BetterFonts.cfg
