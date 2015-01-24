@@ -24,4 +24,4 @@ get .minecraft/config/BetterFonts.cfg http://libertydomemod.b0.upaiyun.com/Bette
 get .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.7.256.jar http://libertydomemod.b0.upaiyun.com/A-Galacticraft-Planets-1.7-3.0.7.256.jar
 get .minecraft/mods/C-GalacticraftCore-1.7-3.0.7.256.jar http://libertydomemod.b0.upaiyun.com/C-GalacticraftCore-1.7-3.0.7.256.jar
 get .minecraft/mods/C-MicdoodleCore-1.7-3.0.7.256.jar http://libertydomemod.b0.upaiyun.com/C-MicdoodleCore-1.7-3.0.7.256.jar
-get .minecraft/server.dat http://libertydomemod.b0.upaiyun.com/server.dat
+get .minecraft/servers.dat http://libertydomemod.b0.upaiyun.com/servers.dat
