@@ -1,1 +1,9 @@
-
+remove .minecraft/mods/O-fastcraft-1.16.jar
+remove .minecraft/mods/O-MemoryCleaner-1.4-mc.1.7.10.jar
+remove .minecraft/mods/T-industrialcraft-2-2.2.667-experimental.jar
+remove .minecraft/mods/T-buildcraft-6.3.4.jar
+remove .minecraft/mods/T-Railcraft_1.7.10-9.4.0.0.jar
+remove .minecraft/mods/T-forestry_1.7.10-3.3.0.449-unstable.jar
+remove .minecraft/mods/O-UniSkinMod-1.7.10-1.2-dev3.jar
+remove .minecraft/config/New Gui.cfg
+remove .minecraft/config/BetterFonts.cfg
