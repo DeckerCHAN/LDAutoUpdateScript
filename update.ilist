@@ -7,7 +7,7 @@ remove .minecraft/mods/T-forestry_1.7.10-3.3.0.449-unstable.jar
 remove .minecraft/mods/O-UniSkinMod-1.7.10-1.2-dev3.jar
 remove .minecraft/config/BetterFonts.cfg
 remove .minecraft/config/GregTech/Recipes.cfg
-get .minecraft/config/BetterFonts.cfg http://libertydomemod.b0.upaiyun.com/BetterFonts.cfg
+get .minecraft/config/BetterFonts.cfg http://libertydomemod.b0.upaiyun.com/dfsa/BetterFonts.cfg
 get .minecraft/mods/T-industrialcraft-2-2.2.673-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.673-experimental.jar
 get .minecraft/mods/T-forestry_1.7.10-3.5.0.458-unstable.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.5.0.458-unstable.jar
 get .minecraft/mods/T-Railcraft_1.7.10-9.5.0.0.jar http://libertydomemod.b0.upaiyun.com/T-Railcraft_1.7.10-9.5.0.0.jar
