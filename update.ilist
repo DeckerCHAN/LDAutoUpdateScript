@@ -13,6 +13,7 @@ get .minecraft/mods/T-forestry_1.7.10-3.5.0.458-unstable.jar http://libertydomem
 get .minecraft/mods/T-Railcraft_1.7.10-9.5.0.0.jar http://libertydomemod.b0.upaiyun.com/T-Railcraft_1.7.10-9.5.0.0.jar
 get .minecraft/mods/T-GraviSuite-1.7.10-2.0.3.jar http://libertydomemod.b0.upaiyun.com/T-GraviSuite-1.7.10-2.0.3.jar
 get .minecraft/mods/T-AdvancedSolarPanel-1.7.10-3.5.1.jar http://libertydomemod.b0.upaiyun.com/T-AdvancedSolarPanel-1.7.10-3.5.1.jar
+get .minecraft/mods/T-buildcraft-6.3.6.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-6.3.6.jar
 get .minecraft/mods/O-BetterFonts1.1.4.jar http://libertydomemod.b0.upaiyun.com/O-BetterFonts1.1.4.jar
 get .minecraft/mods/O-fastcraft-1.19.jar http://libertydomemod.b0.upaiyun.com/O-fastcraft-1.19.jar
 get .minecraft/config/GregTech/Recipes.cfg http://libertydomemod.b0.upaiyun.com/Recipes.cfg
