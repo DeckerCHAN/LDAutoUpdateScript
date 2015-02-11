@@ -10,7 +10,7 @@ remove .minecraft/mods/T-forestry_1.7.10-3.5.0.458-unstable.jar
 remove .minecraft/mods/O-UniSkinMod-1.7.10-1.2-dev3.jar
 remove .minecraft/config/BetterFonts.cfg
 remove .minecraft/config/GregTech/Recipes.cfg
-remove .minecraft/mods/C-GalacticraftCore-1.7-3.0.8.261
+remove .minecraft/mods/C-GalacticraftCore-1.7-3.0.8.261.jar
 remove .minecraft/mods/C-MicdoodleCore-1.7-3.0.8.261.jar
 remove .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.8.261.jar
 remove .minecraft/mods/T-gregtech_1.7.10-5.07.06.jar
