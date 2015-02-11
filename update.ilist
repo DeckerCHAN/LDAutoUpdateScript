@@ -15,7 +15,7 @@ remove .minecraft/mods/C-MicdoodleCore-1.7-3.0.8.261.jar
 remove .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.8.261.jar
 remove .minecraft/mods/T-gregtech_1.7.10-5.07.06.jar
 get .minecraft/config/BetterFonts.cfg http://libertydomemod.b0.upaiyun.com/dfsa/BetterFonts.cfg
-get .minecraft/mods/T-industrialcraft-2-2.2.675-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.67-experimental.jar
+get .minecraft/mods/T-industrialcraft-2-2.2.675-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.675-experimental.jar
 get .minecraft/mods/T-forestry_1.7.10-3.5.0.464-unstable.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.5.0.464-unstable.jar
 get .minecraft/mods/T-Railcraft_1.7.10-9.4.0.0.jar http://libertydomemod.b0.upaiyun.com/T-Railcraft_1.7.10-9.4.0.0.jar
 get .minecraft/mods/T-GraviSuite-1.7.10-2.0.3.jar http://libertydomemod.b0.upaiyun.com/T-GraviSuite-1.7.10-2.0.3.jar
