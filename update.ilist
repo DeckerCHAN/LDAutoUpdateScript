@@ -4,7 +4,6 @@ remove .minecraft/mods/T-industrialcraft-2-2.2.667-experimental.jar
 remove .minecraft/mods/T-industrialcraft-2-2.2.673-experimental.jar
 remove .minecraft/mods/T-buildcraft-6.3.4.jar
 remove .minecraft/mods/T-Railcraft_1.7.10-9.4.0.0.jar
-remove .minecraft/mods/T-Railcraft_1.7.10-9.5.0.0.jar
 remove .minecraft/mods/T-forestry_1.7.10-3.3.0.449-unstable.jar
 remove .minecraft/mods/T-forestry_1.7.10-3.5.0.458-unstable.jar
 remove .minecraft/mods/O-UniSkinMod-1.7.10-1.2-dev3.jar
@@ -18,7 +17,7 @@ remove .minecraft/mods/T-GemBlocksForGreg-1.0.jar
 get .minecraft/config/BetterFonts.cfg http://libertydomemod.b0.upaiyun.com/dfsa/BetterFonts.cfg
 get .minecraft/mods/T-industrialcraft-2-2.2.675-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.675-experimental.jar
 get .minecraft/mods/T-forestry_1.7.10-3.5.0.464-unstable.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.5.0.464-unstable.jar
-get .minecraft/mods/T-Railcraft_1.7.10-9.4.0.0.jar http://libertydomemod.b0.upaiyun.com/T-Railcraft_1.7.10-9.4.0.0.jar
+get .minecraft/mods/T-Railcraft_1.7.10-9.5.0.0.jar http://libertydomemod.b0.upaiyun.com/T-Railcraft_1.7.10-9.5.0.0.jar
 get .minecraft/mods/T-GraviSuite-1.7.10-2.0.3.jar http://libertydomemod.b0.upaiyun.com/T-GraviSuite-1.7.10-2.0.3.jar
 get .minecraft/mods/T-AdvancedSolarPanel-1.7.10-3.5.1.jar http://libertydomemod.b0.upaiyun.com/T-AdvancedSolarPanel-1.7.10-3.5.1.jar
 get .minecraft/mods/T-buildcraft-6.3.6.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-6.3.6.jar
