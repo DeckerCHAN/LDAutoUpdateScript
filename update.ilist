@@ -1,32 +1,3 @@
-remove .minecraft/mods/O-fastcraft-1.16.jar
-remove .minecraft/mods/O-MemoryCleaner-1.4-mc.1.7.10.jar
-remove .minecraft/mods/T-industrialcraft-2-2.2.667-experimental.jar
-remove .minecraft/mods/T-industrialcraft-2-2.2.673-experimental.jar
-remove .minecraft/mods/T-buildcraft-6.3.4.jar
-remove .minecraft/mods/T-Railcraft_1.7.10-9.4.0.0.jar
-remove .minecraft/mods/T-forestry_1.7.10-3.3.0.449-unstable.jar
-remove .minecraft/mods/T-forestry_1.7.10-3.5.0.458-unstable.jar
-remove .minecraft/mods/O-UniSkinMod-1.7.10-1.2-dev3.jar
-remove .minecraft/config/BetterFonts.cfg
-remove .minecraft/config/GregTech/Recipes.cfg
-remove .minecraft/mods/C-GalacticraftCore-1.7-3.0.8.261.jar
-remove .minecraft/mods/C-MicdoodleCore-1.7-3.0.8.261.jar
-remove .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.8.261.jar
-remove .minecraft/GregTech.lang
-remove .minecraft/mods/T-GemBlocksForGreg-1.0.jar
-remove .minecraft/mods/T-gregtech_1.7.10-5.07.07.jar
-get .minecraft/config/BetterFonts.cfg http://libertydomemod.b0.upaiyun.com/dfsa/BetterFonts.cfg
-get .minecraft/mods/T-industrialcraft-2-2.2.675-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.675-experimental.jar
-get .minecraft/mods/T-forestry_1.7.10-3.5.0.464-unstable.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.5.0.464-unstable.jar
-get .minecraft/mods/T-Railcraft_1.7.10-9.5.0.0.jar http://libertydomemod.b0.upaiyun.com/T-Railcraft_1.7.10-9.5.0.0.jar
-get .minecraft/mods/T-GraviSuite-1.7.10-2.0.3.jar http://libertydomemod.b0.upaiyun.com/T-GraviSuite-1.7.10-2.0.3.jar
-get .minecraft/mods/T-AdvancedSolarPanel-1.7.10-3.5.1.jar http://libertydomemod.b0.upaiyun.com/T-AdvancedSolarPanel-1.7.10-3.5.1.jar
-get .minecraft/mods/T-buildcraft-6.3.6.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-6.3.6.jar
-get .minecraft/mods/O-BetterFonts1.1.4.jar http://libertydomemod.b0.upaiyun.com/O-BetterFonts1.1.4.jar
-get .minecraft/mods/O-fastcraft-1.19.jar http://libertydomemod.b0.upaiyun.com/O-fastcraft-1.19.jar
-get .minecraft/config/GregTech/Recipes.cfg http://libertydomemod.b0.upaiyun.com/Recipes.cfg
-get .minecraft/mods/C-GalacticraftCore-1.7-3.0.8.263.jar http://libertydomemod.b0.upaiyun.com/C-GalacticraftCore-1.7-3.0.8.263.jar
-get .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.8.263.jar http://libertydomemod.b0.upaiyun.com/A-Galacticraft-Planets-1.7-3.0.8.263.jar
-get .minecraft/mods/C-MicdoodleCore-1.7-3.0.8.263.jar http://libertydomemod.b0.upaiyun.com/C-MicdoodleCore-1.7-3.0.8.263.jar
-get .minecraft/mods/T-gregtech_1.7.10-5.07.06.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.07.06.jar
-get .minecraft/GregTech.lang http://libertydomemod.b0.upaiyun.com/GregTech.lang
+remove .minecraft/mods/A-EnviroMine-v1.3.113
+get .minecraft/mods/A-EnviroMine-v1.2.28.jar http://libertydomemod.b0.upaiyun.com/A-EnviroMine-v1.2.28.jar
+
