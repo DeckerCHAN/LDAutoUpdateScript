@@ -1,4 +1,6 @@
 remove .minecraft/mods/A-EnviroMine-v1.3.113.jar
 remove .minecraft/mods/T-forestry_1.7.10-3.6.0.521-unstable.jar
+remove .minecraft/mods/T-gregtech_1.7.10-5.08.05.jar
 get .minecraft/mods/A-EnviroMine-v1.2.28.jar http://libertydomemod.b0.upaiyun.com/A-EnviroMine-v1.2.28.jar
 get .minecraft/mods/T-forestry_1.7.10-3.5.0.485-unstable.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.5.0.485-unstable.jar
+get .minecraft/mods/T-gregtech_1.7.10-5.08.07.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.08.07.jar
