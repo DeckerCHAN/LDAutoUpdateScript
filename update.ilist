@@ -2,3 +2,5 @@ remove .minecraft/mods/T-gregtech_1.7.10-5.08.05.jar
 remove scripts/RC.zs
 remove scripts/AE2-alt.zs
 get .minecraft/mods/T-gregtech_1.7.10-5.08.07.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.08.07.jar
+get scripts/RC.zs http://libertydomemod.b0.upaiyun.com/RC.zs
+get scripts/AE2-alt.zs http://libertydomemod.b0.upaiyun.com/AE2-alt.zs
