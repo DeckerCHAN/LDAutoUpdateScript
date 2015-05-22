@@ -12,10 +12,8 @@ remove .minecraft/mods/T-ReactorCraft1.7.10V6e.jar
 remove .minecraft/mods/T-industrialcraft-2-2.2.720-experimental.jar
 remove .minecraft/mods/T-forestry_1.7.10-3.6.0.555-unstable.jar
 remove .minecraft/mods/T-gregtech_1.7.10-5.08.12.jar
-get .minecraft/mods/T-gregtech_1.7.10-5.08.07.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.08.07.jar
 get scripts/RC.zs http://libertydomemod.b0.upaiyun.com/RC.zs
 get scripts/AE2-alt.zs http://libertydomemod.b0.upaiyun.com/IC2.zs
-get .minecraft/mods/T-industrialcraft-2-2.2.717-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.717-experimental.jar
 get .minecraft/mods/A-BetterFonts1.1.4.jar http://libertydomemod.b0.upaiyun.com/A-BetterFonts1.1.4.jar
 get .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.12.339.jar http://libertydomemod.b0.upaiyun.com/A-Galacticraft-Planets-1.7-3.0.12.339.jar
 get .minecraft/mods/A-OptiFine_1.7.10_HD_U_B7.jar http://libertydomemod.b0.upaiyun.com/A-OptiFine_1.7.10_HD_U_B7.jar
