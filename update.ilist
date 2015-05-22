@@ -2,6 +2,7 @@ remove .minecraft/mods/T-gregtech_1.7.10-5.08.05.jar
 remove .minecraft/mods/T-industrialcraft-2-2.2.718-experimental.jar
 remove scripts/RC.zs
 remove scripts/AE2-alt.zs
+remove .minecraft/config/hqm/quests.hqm
 remove .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.12.336.jar
 remove .minecraft/mods/C-GalacticraftCore-1.7-3.0.12.336.jar
 remove .minecraft/mods/C-MicdoodleCore-1.7-3.0.12.336.jar
@@ -22,3 +23,4 @@ get .minecraft/mods/C-MicdoodleCore-1.7-3.0.12.339.jar http://libertydomemod.b0.
 get .minecraft/mods/T-forestry_1.7.10-3.6.0.566-unstable.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.6.0.566-unstable.jar
 get .minecraft/mods/T-gregtech_1.7.10-5.08.16.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.08.16.jar
 get .minecraft/mods/T-industrialcraft-2-2.2.722-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.722-experimental.jar
+get .minecraft/config/hqm/quests.hqm http://libertydomemod.b0.upaiyun.com/quests.hqm
