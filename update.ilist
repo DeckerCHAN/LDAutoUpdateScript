@@ -13,6 +13,13 @@ remove .minecraft/mods/T-ReactorCraft1.7.10V6e.jar
 remove .minecraft/mods/T-industrialcraft-2-2.2.720-experimental.jar
 remove .minecraft/mods/T-forestry_1.7.10-3.6.0.555-unstable.jar
 remove .minecraft/mods/T-gregtech_1.7.10-5.08.12.jar
+remove .minecraft/mods/A-EnviroMine-v1.2.28.jar
+remove .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.12.339.jar
+remove .minecraft/mods/C-GalacticraftCore-1.7-3.0.12.339.jar
+remove .minecraft/mods/C-MicdoodleCore-1.7-3.0.12.339.jar
+remove .minecraft/mods/T-forestry_1.7.10-3.6.0.566-unstable.jar
+remove .minecraft/mods/T-gregtech_1.7.10-5.08.16.jar
+remove .minecraft/mods/T-industrialcraft-2-2.2.722-experimental.jar
 get scripts/RC.zs http://libertydomemod.b0.upaiyun.com/RC.zs
 get scripts/AE2-alt.zs http://libertydomemod.b0.upaiyun.com/AE2-alt.zs
 get scripts/IC2.zs http://libertydomemod.b0.upaiyun.com/IC2.zs
@@ -25,3 +32,11 @@ get .minecraft/mods/T-forestry_1.7.10-3.6.0.566-unstable.jar http://libertydomem
 get .minecraft/mods/T-gregtech_1.7.10-5.08.16.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.08.16.jar
 get .minecraft/mods/T-industrialcraft-2-2.2.722-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.722-experimental.jar
 get .minecraft/config/hqm/quests.hqm http://libertydomemod.b0.upaiyun.com/quests.hqm
+get .minecraft/mods/A-EnviroMine-1.3.117.jar http://libertydomemod.b0.upaiyun.com/A-EnviroMine-1.3.117.jar
+get .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.12.339.jar http://libertydomemod.b0.upaiyun.com/A-Galacticraft-Planets-1.7-3.0.12.339.jar
+get .minecraft/mods/C-GalacticraftCore-1.7-3.0.12.339.jar http://libertydomemod.b0.upaiyun.com/C-GalacticraftCore-1.7-3.0.12.339.jar
+get .minecraft/mods/C-MicdoodleCore-1.7-3.0.12.339.jar http://libertydomemod.b0.upaiyun.com/C-MicdoodleCore-1.7-3.0.12.339.jar
+get .minecraft/mods/T-buildcraft-6.4.16.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-6.4.16.jar
+get .minecraft/mods/T-forestry_1.7.10-3.6.0.569-unstable.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.6.0.569-unstable.jar
+get .minecraft/mods/T-gregtech_1.7.10-5.08.18.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.08.18.jar
+get .minecraft/mods/T-industrialcraft-2-2.2.726-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.726-experimental.jar
