@@ -20,6 +20,7 @@ remove .minecraft/mods/C-MicdoodleCore-1.7-3.0.12.339.jar
 remove .minecraft/mods/T-forestry_1.7.10-3.6.0.566-unstable.jar
 remove .minecraft/mods/T-gregtech_1.7.10-5.08.16.jar
 remove .minecraft/mods/T-industrialcraft-2-2.2.722-experimental.jar
+remove .minecraft/mods/T-buildcraft-6.4.15.jar
 get .minecraft/mods/A-EnviroMine-1.3.117.jar http://libertydomemod.b0.upaiyun.com/A-EnviroMine-1.3.117.jar
 get .minecraft/mods/A-Galacticraft-Planets-1.7-3.0.12.339.jar http://libertydomemod.b0.upaiyun.com/A-Galacticraft-Planets-1.7-3.0.12.339.jar
 get .minecraft/mods/C-GalacticraftCore-1.7-3.0.12.339.jar http://libertydomemod.b0.upaiyun.com/C-GalacticraftCore-1.7-3.0.12.339.jar
