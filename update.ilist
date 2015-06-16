@@ -3,10 +3,11 @@ remove .minecraft/mods/T-buildcraft-7.0.8.jar
 remove .minecraft/mods/O-UnicodeFontFixer-1.0.3-mc1.7.10.jar
 remove .minecraft/mods/T-industrialcraft-2-2.2.732-experimental.jar
 remove .minecraft/mods/A-GTTweaker-1.7.10-0.6.9.jar
+remove .minecraft/mods/T-appliedenergistics2-rv2-stable-5.jar
 get .minecraft/mods/A-GTTweaker-1.7.10-0.7.0.jar http://libertydomemod.b0.upaiyun.com/A-GTTweaker-1.7.10-0.7.0.jar
 get .minecraft/mods/O-UnicodeFontFixer-1.0.6-mc1.7.10.jar http://libertydomemod.b0.upaiyun.com/O-UnicodeFontFixer-1.0.6-mc1.7.10.jar
 get .minecraft/mods/T-buildcraft-7.0.9.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-7.0.9.jar
 get .minecraft/mods/T-buildcraft-compat-7.0.8.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-compat-7.0.8.jar
 get .minecraft/mods/T-industrialcraft-2-2.2.736-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.736-experimental.jar
 get .minecraft/mods/A-More-Planets-1.7.10-1.2.8.jar http://libertydomemod.b0.upaiyun.com/A-More-Planets-1.7.10-1.2.8.jar
-get .minecraft/MorePlanet's/core.cfg http://libertydomemod.b0.upaiyun.com/core.cfg
+get .minecraft/mods/T-appliedenergistics2-rv2-stable-8.jar http://libertydomemod.b0.upaiyun.com/T-appliedenergistics2-rv2-stable-8.jar
