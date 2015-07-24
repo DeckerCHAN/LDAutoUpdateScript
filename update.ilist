@@ -1,13 +1,12 @@
-remove .minecraft/mods/T-buildcraft-compat-7.0.7.jar
-remove .minecraft/mods/T-buildcraft-7.0.8.jar
-remove .minecraft/mods/O-UnicodeFontFixer-1.0.3-mc1.7.10.jar
-remove .minecraft/mods/T-industrialcraft-2-2.2.732-experimental.jar
-remove .minecraft/mods/A-GTTweaker-1.7.10-0.6.9.jar
-remove .minecraft/mods/T-appliedenergistics2-rv2-stable-5.jar
-get .minecraft/mods/A-GTTweaker-1.7.10-0.7.0.jar http://libertydomemod.b0.upaiyun.com/A-GTTweaker-1.7.10-0.7.0.jar
-get .minecraft/mods/O-UnicodeFontFixer-1.0.6-mc1.7.10.jar http://libertydomemod.b0.upaiyun.com/O-UnicodeFontFixer-1.0.6-mc1.7.10.jar
-get .minecraft/mods/T-buildcraft-7.0.9.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-7.0.9.jar
-get .minecraft/mods/T-buildcraft-compat-7.0.8.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-compat-7.0.8.jar
-get .minecraft/mods/T-industrialcraft-2-2.2.736-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.736-experimental.jar
-get .minecraft/mods/A-More-Planets-1.7.10-1.2.8.jar http://libertydomemod.b0.upaiyun.com/A-More-Planets-1.7.10-1.2.8.jar
-get .minecraft/mods/T-appliedenergistics2-rv2-stable-8.jar http://libertydomemod.b0.upaiyun.com/T-appliedenergistics2-rv2-stable-8.jar
+remove .minecraft/mods/T-buildcraft-7.0.16.jar
+remove .minecraft/mods/T-industrialcraft-2-2.2.751-experimental.jar
+remove .minecraft/mods/M-magicbees-1.7.10-2.3.1.jar
+remove .minecraft/mods/T-gregtech_1.7.10-5.08.24.jar
+remove .minecraft/mods/T-ImmersiveEngineering-0.4.4.jar
+remove .minecraft/mods/T-forestry_1.7.10-3.5.7.16.jar
+get .minecraft/mods/T-buildcraft-7.0.17.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-7.0.17.jar
+get .minecraft/mods/T-forestry_1.7.10-3.6.3.20.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.6.3.20.jar
+get .minecraft/mods/T-gregtech_1.7.10-5.08.25.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.08.25.jar
+get .minecraft/mods/T-industrialcraft-2-2.2.756-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.756-experimental.jar
+get .minecraft/mods/M-magicbees-1.7.10-2.3.3.jar http://libertydomemod.b0.upaiyun.com/M-magicbees-1.7.10-2.3.3.jar
+get .minecraft/mods/T-ImmersiveEngineering-0.4.4.jar http://libertydomemod.b0.upaiyun.com/T-ImmersiveEngineering-0.4.4.jar
