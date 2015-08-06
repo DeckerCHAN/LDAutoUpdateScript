@@ -9,6 +9,7 @@ remove .minecraft/mods/NEI-thaumcraftneiplugin-1.7.10-1.7.jar
 remove .minecraft/mods/NEI-Waila-1.5.10_1.7.10.jar
 remove .minecraft/mods/NEI-WailaHarvestability-mc1.7.x-1.1.2.jar
 remove .minecraft/mods/C-CodeChickenCore-1.7.10-1.0.7.46-universal.jar
+remove .minecraft/mods/L-mod_voxelmenu_4.1.4_mc1.7.10.litemod
 
 get .minecraft/mods/NEI-NEIIntegration-MC1.7.10-1.0.12.jar http://modupdater.b0.upaiyun.com/NEI-NEIIntegration-MC1.7.10-1.0.12.jar
 get .minecraft/mods/A-GTTweaker-1.7.10-0.7.6.jar http://modupdater.b0.upaiyun.com/A-GTTweaker-1.7.10-0.7.6.jar
@@ -20,3 +21,4 @@ get .minecraft/mods/NEI-Waila-1.5.10_1.7.10.jar http://modupdater.b0.upaiyun.com
 get .minecraft/mods/NEI-WailaHarvestability-mc1.7.x-1.1.2.jar http://modupdater.b0.upaiyun.com/NEI-WailaHarvestability-mc1.7.x-1.1.2.jar
 get .minecraft/mods/T-industrialcraft-2-2.2.760-experimental.jar http://modupdater.b0.upaiyun.com/T-industrialcraft-2-2.2.760-experimental.jar
 get .minecraft/mods/T-OpenComputers-MC1.7.10-1.5.15.31-universal.jar http://modupdater.b0.upaiyun.com/T-OpenComputers-MC1.7.10-1.5.15.31-universal.jar
+get .minecraft/mods/L-mod_voxelmenu_4.1.4_mc1.7.10.litemod http://modupdater.b0.upaiyun.com/L-mod_voxelmenu_4.1.4_mc1.7.10.litemod
