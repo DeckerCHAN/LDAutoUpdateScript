@@ -1,7 +1,6 @@
 remove .minecraft/mods/A-GTTweaker-1.7.10-0.7.2.jar
 remove .minecraft/mods/T-industrialcraft-2-2.2.758-experimental.jar
 remove .minecraft/mods/T-OpenComputers-MC1.7.10-1.5.14.30-universal.jar
-remove .minecraft/mods/C-CoFHCore-1.7.10-3.0.3-303.jar
 remove .minecraft/mods/NEI-neiaddons-1.12.9.32-mc1.7.10.jar
 remove .minecraft/mods/NEI-NEIPluginv1.1.0.11.jar
 remove .minecraft/mods/NEI-NotEnoughItems-1.7.10-1.0.5.110-universal.jar
