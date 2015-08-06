@@ -1,16 +1,12 @@
-remove .minecraft/mods/T-buildcraft-7.0.16.jar
-remove .minecraft/mods/T-industrialcraft-2-2.2.751-experimental.jar
-remove .minecraft/mods/M-magicbees-1.7.10-2.3.1.jar
-remove .minecraft/mods/T-gregtech_1.7.10-5.08.24.jar
-remove .minecraft/mods/T-ImmersiveEngineering-0.4.4.jar
-remove .minecraft/mods/T-forestry_1.7.10-3.5.7.16.jar
-remove .minecraft/mods/NEI-NEIIntegration-MC1.7.10-1.0.9.jar
-remove Changelog.txt
-get .minecraft/mods/NEI-NEIIntegration-MC1.7.10-1.0.11.jar http://libertydomemod.b0.upaiyun.com/NEI-NEIIntegration-MC1.7.10-1.0.11.jar
-get .minecraft/mods/T-buildcraft-7.0.17.jar http://libertydomemod.b0.upaiyun.com/T-buildcraft-7.0.17.jar
-get .minecraft/mods/T-forestry_1.7.10-3.6.3.20.jar http://libertydomemod.b0.upaiyun.com/T-forestry_1.7.10-3.6.3.20.jar
-get .minecraft/mods/T-gregtech_1.7.10-5.08.25.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.08.25.jar
-get .minecraft/mods/T-industrialcraft-2-2.2.756-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.756-experimental.jar
-get .minecraft/mods/M-magicbees-1.7.10-2.3.3.jar http://libertydomemod.b0.upaiyun.com/M-magicbees-1.7.10-2.3.3.jar
-get .minecraft/mods/T-ImmersiveEngineering-0.4.4.jar http://libertydomemod.b0.upaiyun.com/T-ImmersiveEngineering-0.4.4.jar
-get Changelog.txt http://libertydomemod.b0.upaiyun.com/Changelog.txt
+remove .minecraft/mods/A-GTTweaker-1.7.10-0.7.2.jar
+remove .minecraft/mods/T-industrialcraft-2-2.2.758-experimental.jar
+remove .minecraft/mods/T-OpenComputers-MC1.7.10-1.5.14.30-universal.jar
+remove .minecraft/mods/C-CoFHCore-1.7.10-3.0.3-303.jar
+remove .minecraft/mods/NEI-neiaddons-1.12.9.32-mc1.7.10.jar
+remove .minecraft/mods/NEI-NEIPluginv1.1.0.11.jar
+remove .minecraft/mods/NEI-NotEnoughItems-1.7.10-1.0.5.110-universal.jar
+remove .minecraft/mods/NEI-thaumcraftneiplugin-1.7.10-1.7.jar
+remove .minecraft/mods/NEI-Waila-1.5.10_1.7.10.jar
+remove .minecraft/mods/NEI-WailaHarvestability-mc1.7.x-1.1.2.jar
+
+get .minecraft/mods/NEI-NEIIntegration-MC1.7.10-1.0.12.jar http://libertydomemod.b0.upaiyun.com/NEI-NEIIntegration-MC1.7.10-1.0.12.jar
