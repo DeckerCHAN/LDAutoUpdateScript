@@ -9,6 +9,7 @@ remove .minecraft/mods/NEI-Waila-1.5.10_1.7.10.jar
 remove .minecraft/mods/NEI-WailaHarvestability-mc1.7.x-1.1.2.jar
 remove .minecraft/mods/C-CodeChickenCore-1.7.10-1.0.7.46-universal.jar
 remove .minecraft/mods/L-mod_voxelmenu_4.1.4_mc1.7.10.litemod
+remove .minecraft/mods/T-Railcraft_1.7.10-9.6.1.0.jar
 
 get .minecraft/mods/NEI-NEIIntegration-MC1.7.10-1.0.12.jar http://modupdater.b0.upaiyun.com/NEI-NEIIntegration-MC1.7.10-1.0.12.jar
 get .minecraft/mods/A-GTTweaker-1.7.10-0.7.6.jar http://modupdater.b0.upaiyun.com/A-GTTweaker-1.7.10-0.7.6.jar
