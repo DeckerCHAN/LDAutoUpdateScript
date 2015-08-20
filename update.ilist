@@ -1,24 +1,2 @@
-remove .minecraft/mods/A-GTTweaker-1.7.10-0.7.2.jar
-remove .minecraft/mods/T-industrialcraft-2-2.2.758-experimental.jar
-remove .minecraft/mods/T-OpenComputers-MC1.7.10-1.5.14.30-universal.jar
-remove .minecraft/mods/NEI-neiaddons-1.12.9.32-mc1.7.10.jar
-remove .minecraft/mods/NEI-NEIPluginv1.1.0.11.jar
-remove .minecraft/mods/NEI-NotEnoughItems-1.7.10-1.0.5.110-universal.jar
-remove .minecraft/mods/NEI-thaumcraftneiplugin-1.7.10-1.7.jar
-remove .minecraft/mods/NEI-Waila-1.5.10_1.7.10.jar
-remove .minecraft/mods/NEI-WailaHarvestability-mc1.7.x-1.1.2.jar
-remove .minecraft/mods/C-CodeChickenCore-1.7.10-1.0.7.46-universal.jar
-remove .minecraft/mods/L-mod_voxelmenu_4.1.4_mc1.7.10.litemod
-remove .minecraft/mods/T-Railcraft_1.7.10-9.6.1.0.jar
-
-get .minecraft/mods/NEI-NEIIntegration-MC1.7.10-1.0.12.jar http://modupdater.b0.upaiyun.com/NEI-NEIIntegration-MC1.7.10-1.0.12.jar
-get .minecraft/mods/A-GTTweaker-1.7.10-0.7.6.jar http://modupdater.b0.upaiyun.com/A-GTTweaker-1.7.10-0.7.6.jar
-get .minecraft/mods/C-CodeChickenCore-1.7.10-1.0.7.47-universal.jar http://modupdater.b0.upaiyun.com/C-CodeChickenCore-1.7.10-1.0.7.47-universal.jar
-get .minecraft/mods/NEI-neiaddons-1.12.11.36-mc1.7.10.jar http://modupdater.b0.upaiyun.com/NEI-neiaddons-1.12.11.36-mc1.7.10.jar
-get .minecraft/mods/NEI-NotEnoughItems-1.7.10-1.0.5.111-universal.jar http://modupdater.b0.upaiyun.com/NEI-NotEnoughItems-1.7.10-1.0.5.111-universal.jar
-get .minecraft/mods/NEI-thaumcraftneiplugin-1.7.10-1.7a.jar http://modupdater.b0.upaiyun.com/NEI-thaumcraftneiplugin-1.7.10-1.7a.jar
-get .minecraft/mods/NEI-Waila-1.5.10_1.7.10.jar http://modupdater.b0.upaiyun.com/NEI-Waila-1.5.10_1.7.10.jar
-get .minecraft/mods/NEI-WailaHarvestability-mc1.7.x-1.1.2.jar http://modupdater.b0.upaiyun.com/NEI-WailaHarvestability-mc1.7.x-1.1.2.jar
-get .minecraft/mods/T-industrialcraft-2-2.2.760-experimental.jar http://modupdater.b0.upaiyun.com/T-industrialcraft-2-2.2.760-experimental.jar
-get .minecraft/mods/T-OpenComputers-MC1.7.10-1.5.15.31-universal.jar http://modupdater.b0.upaiyun.com/T-OpenComputers-MC1.7.10-1.5.15.31-universal.jar
-get .minecraft/mods/L-mod_voxelmenu_4.1.4_mc1.7.10.litemod http://modupdater.b0.upaiyun.com/L-mod_voxelmenu_4.1.4_mc1.7.10.litemod
+remove .minecraft/server.dat
+get .minecraft/server.dat http://modupdater.b0.upaiyun.com/server.dat
