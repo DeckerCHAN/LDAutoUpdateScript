@@ -1,2 +1,2 @@
-remove .minecraft/server.dat
-get .minecraft/server.dat http://modupdater.b0.upaiyun.com/server.dat
+remove .minecraft/servers.dat
+get .minecraft/servers.dat http://modupdater.b0.upaiyun.com/servers.dat
