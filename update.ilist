@@ -3,3 +3,8 @@ remove .minecraft/mods/T-industrialcraft-2-2.2.767-experimental.jar
 remove .minecraft/mods/T-ReactorCraft1.7.10V7f.jar
 remove .minecraft/mods/T-RotaryCraft1.7.10V7f.jar
 remove .minecraft/mods/M-Botaniar1.7-215.jar
+get .minecraft/mods/C-DragonAPI1.7.10V8c.jar http://libertydomemod.b0.upaiyun.com/C-DragonAPI1.7.10V8c.jar
+get .minecraft/mods/M-Botaniar1.7-219.jar http://libertydomemod.b0.upaiyun.com/M-Botaniar1.7-219.jar
+get .minecraft/mods/T-industrialcraft-2-2.2.768-experimental.jar http://libertydomemod.b0.upaiyun.com/T-industrialcraft-2-2.2.768-experimental.jar
+get .minecraft/mods/T-ReactorCraft1.7.10V8a.jar http://libertydomemod.b0.upaiyun.com/T-ReactorCraft1.7.10V8a.jar
+get .minecraft/mods/T-RotaryCraft1.7.10V8c.jar http://libertydomemod.b0.upaiyun.com/T-RotaryCraft1.7.10V8c.jar
