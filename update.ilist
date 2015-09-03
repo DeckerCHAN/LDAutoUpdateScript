@@ -1,2 +1,4 @@
-get T-gregtech_1.7.10-5.08.25.jar http://libertydomemod.b0.upaiyun.com/T-gregtech_1.7.10-5.08.25.jar
-get Test-file_%20v1.00.zip http://libertydomemod.b0.upaiyun.com/%5BTest%5D-file_%20v1.00.zip
+remove .minecraft/mods/C-DragonAPI1.7.10V7f
+remove .minecraft/mods/T-industrialcraft-2-2.2.767-experimental.jar
+remove .minecraft/mods/T-ReactorCraft1.7.10V7f.jar
+remove .minecraft/mods/T-RotaryCraft1.7.10V7f.jar
