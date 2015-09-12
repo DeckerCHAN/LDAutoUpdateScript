@@ -54,7 +54,7 @@
             {
 		"name":"CoreMod",
 		"downloadLink":"http://libertydome.b0.upaiyun.com/Coremod.zip",
-		"localPath":"/mods/1.7.10/",
+		"localPath":"mods/1.7.10/",
 		"md5":"8573e80410c36954a49d03702ffc4d2b"
 	     }
         ],
