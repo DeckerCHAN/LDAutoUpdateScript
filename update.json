@@ -1,0 +1,390 @@
+{
+    "icon": "http://libertydome.b0.upaiyun.com/ldlogo.png",
+    "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
+    "version": "1.11",
+    "generation": "1",
+    "author": "Liberty Dome管理团队",
+    "instanceName": "Liberty Dome Advanced",
+    "description": "Liberty Dome 自由苍穹我的世界联机服务器（以下简称“Liberty Dome”）是一个以游戏【Minecraft（我的世界）】为基础的游戏服务器。服务器主要亮点为格雷科技模组，一个知名的Minecraft科技模组。这个模组由服务器管理员【Tehporp 与 Decker CHAN】经原模组作者（外籍）授权许可汉化。模组拥有较成熟完整的体系，同时具有一定的难度，对玩家吸引力较强。定时更新周目，使服务器玩家不断有新的期待。除科技类模组以外，服务器计划建造大量精致的建筑，使服务器不仅仅有生存竞争，同时具有生活的气息。",
+    "updatePath": "http://libertydome.b0.upaiyun.com/LibertyDomeAdv.json",
+    "fileSystem": {
+        "entirePackageFiles": [
+            {
+                "name": "Library",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/libraries.zip",
+                "localPath": "libraries/",
+                "md5": "698e9a986c4e8fea9efa4d944c121a5c"
+            },
+            {
+                "name": "Assets",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/assets.zip",
+                "localPath": "assets/",
+                "md5": "c36e3203504fcdf49ed39b118ff7e24f"
+            },
+            {
+                "name": "Natives",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/natives.zip",
+                "localPath": "natives/",
+                "md5": "6167b2dbcdc8cdd9f571173940fc896f"
+            },
+            {
+                "name": "Scripts",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/scripts.zip",
+                "localPath": "scripts/",
+                "md5": "a40e3759c5ab38bef544aaf0c1451dae"
+            },
+            {
+                "name": "Configs",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/config.zip",
+                "localPath": "config/",
+                "md5": "c85236af027ac2e197a699694f8bf44d"
+            },
+            {
+                "name": "CustomSkinLoader",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/CustomSkinLoader.zip",
+                "localPath": "CustomSkinLoader/",
+                "md5": "3746f788990a81d11f9c70f57b421f3c"
+            },
+            {
+                "name": "LiteConfig",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/liteconfig.zip",
+                "localPath": "liteconfig/",
+                "md5": "c1c745f8b9f199c376bb697f6533c546"
+            }
+			{
+				"name":"CoreMod",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/Coremod.zip",
+				"localPath":"/mods/1.7.10/",
+				"md5":"8573e80410c36954a49d03702ffc4d2b"
+			},
+        ],
+        "customFiles": [
+            {
+                "name": "MainJar",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/LibertyDome-Advanced.jar",
+                "localPath": "LibertyDome-Advanced.jar",
+                "md5": "4899f6e1be12d9df3085e3c9931694dd"
+            },
+            {
+                "name": "ServerData",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/servers.dat",
+                "localPath": "servers.dat",
+                "md5": "226af713284bb732dd35b4fb506e2af1"
+            },
+            {
+                "name": "GregTechLang",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/GregTech.lang",
+                "localPath": "GregTech.lang",
+                "md5": "8ef9652bab31186a26eb3d94459fa0dd"
+            },
+            {
+                "name": "GameOptions",
+                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/options.txt",
+                "localPath": "options.txt",
+                "md5": "55e5b9c9732356b81375be2758db3056"
+            },
+			{
+				"name":"A-BiblioCraft.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/A-BiblioCraft.jar",
+				"localPath":"mods/",
+				"md5":"8ff7b200ed81466e3c5eeeef09c10ffd"
+			},
+			{
+				"name":"A-buildcraft-compat-7.0.11.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/A-buildcraft-compat-7.0.11.jar",
+				"localPath":"mods/",
+				"md5":"3d6f9e75aabc9213d7ceee1ae0140d0e"
+			},
+			{
+				"name":"A-DoggyTalents-1.7.10-v1.9.0h-universal.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/A-DoggyTalents-1.7.10-v1.9.0h-universal.jar",
+				"localPath":"mods/",
+				"md5":"7f79045bbdd66801420e09244f4839e9"
+			},
+			{
+				"name":"A-dungeonpack-1.7.10-1.0.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/A-dungeonpack-1.7.10-1.0.jar",
+				"localPath":"mods/",
+				"md5":"7bfc31e07acd123b02141708e12da78b"
+			},
+			{
+				"name":"A-InfernalMobs-1.7.10.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/A-InfernalMobs-1.7.10.jar",
+				"localPath":"mods/",
+				"md5":"3bcde037e3c5c6c9f86f63719f71ca3b"
+			},
+			{
+				"name":"A-MineTweaker3-1.7.10-3.0.10.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/A-MineTweaker3-1.7.10-3.0.10.jar",
+				"localPath":"mods/",
+				"md5":"5f304c1c65e1c443170111ae70ceca7a"
+			},
+			{
+				"name":"A-ModTweaker2-0.9.3.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/A-ModTweaker2-0.9.3.jar",
+				"localPath":"mods/",
+				"md5":"d0a251dfad277ffd56da172f0e28fded"
+			},			
+			{
+				"name":"A-PamsHarvestCraft 1.7.10j.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/A-PamsHarvestCraft 1.7.10j.jar",
+				"localPath":"mods/",
+				"md5":"293c5dd0ef1a6d9bd7285d5204c9d3cb"
+			},
+			{
+				"name":"appliedenergistics2-rv2-stable-10.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/appliedenergistics2-rv2-stable-10.jar",
+				"localPath":"mods/",
+				"md5":"f7a60fa036240da11da4a739c5c4137d"
+			},
+			{
+				"name":"C-CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/C-CodeChickenCore-1.7.10-1.0.7.47-universal.jar",
+				"localPath":"mods/",
+				"md5":"07690caf86ecf79739852154f5e44750"
+			},
+			{
+				"name":"C-CoFHCore-1.7.10-3.0.3-303.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/C-CoFHCore-1.7.10-3.0.3-303.jar",
+				"localPath":"mods/",
+				"md5":"2ffdab52f8536f02f34a9d9230ca24dd"
+			},
+			{
+				"name":"C-DragonAPI 1.7.10 V8g.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/C-DragonAPI 1.7.10 V8g.jar",
+				"localPath":"mods/",
+				"md5":""
+			},
+			{
+				"name":"C-Numina-0.4.0.7.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/C-Numina-0.4.0.7.jar",
+				"localPath":"mods/",
+				"md5":"decbceb3b91200eb825ff01fefef2cb6"
+			},
+			{
+				"name":"L-mod_voxelmenu_4.1.4_mc1.7.10.litemod",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/L-mod_voxelmenu_4.1.4_mc1.7.10.litemod",
+				"localPath":"mods/",
+				"md5":"1898e450055cf11c64f546bff9cf4f62"
+			},
+			{
+				"name":"L-voxelMap_1.5.15_for_1.7.10.litemod",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/L-voxelMap_1.5.15_for_1.7.10.litemod",
+				"localPath":"mods/",
+				"md5":"a1de44a5e6af6c4105e22aef189c9a51"
+			},
+			{
+				"name":"LC-lib_voxellib_2.3.1_mc1.7.10.litemod",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/LC-lib_voxellib_2.3.1_mc1.7.10.litemod",
+				"localPath":"mods/",
+				"md5":"14dfef7250c348d765e865b462c3018a"
+			},
+			{
+				"name":"M-Botania r1.7-221.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/M-Botania r1.7-221.jar",
+				"localPath":"mods/",
+				"md5":"M-Botania r1.7-221.jar"
+			},
+			{
+				"name":"M-Thaumcraft-1.7.10-4.2.3.5.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/M-Thaumcraft-1.7.10-4.2.3.5.jar",
+				"localPath":"mods/",
+				"md5":"17f2e60dabd4961c9a3a2dad3ad6528a"
+			},
+			{
+				"name":"M-thaumicenergistics-0.8.10.7.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/M-thaumicenergistics-0.8.10.7.jar",
+				"localPath":"mods/",
+				"md5":"414a1340e4e6105d80848c1ef718db10"
+			},
+			{
+				"name":"NEI-neiaddons-1.12.11.36-mc1.7.10.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/NEI-neiaddons-1.12.11.36-mc1.7.10.jar",
+				"localPath":"mods/",
+				"md5":"ffe6d67f665e2f2f8735a1b824d219d0"
+			},
+			{
+				"name":"NEI-NEIIntegration-MC1.7.10-1.0.12.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/NEI-NEIIntegration-MC1.7.10-1.0.12.jar",
+				"localPath":"mods/",
+				"md5":"ce52827985c6b803dbe1e19e14cb0317"
+			},
+			{
+				"name":"NEI-NotEnoughItems-1.7.10-1.0.5.111-universal.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/NEI-NotEnoughItems-1.7.10-1.0.5.111-universal.jar",
+				"localPath":"mods/",
+				"md5":"2a1ad0bb450ad389ba515bf95d24a1d9"
+			},
+			{
+				"name":"NEI-thaumcraftneiplugin-1.7.10-1.7a.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/NEI-thaumcraftneiplugin-1.7.10-1.7a.jar",
+				"localPath":"mods/",
+				"md5":"f71559fa64c1996b03e796b660914637"
+			},
+			{
+				"name":"NEI-Waila-1.5.10_1.7.10.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/NEI-Waila-1.5.10_1.7.10.jar",
+				"localPath":"mods/",
+				"md5":"eeb36775188e70faa1c5ecd84f80076c"
+			},
+			{
+				"name":"NEI-WailaHarvestability-mc1.7.x-1.1.2.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/NEI-WailaHarvestability-mc1.7.x-1.1.2.jar",
+				"localPath":"mods/",
+				"md5":"44f3356029a6a17e4bf3bd9313e9cbe4"
+			},
+			{
+				"name":"O-InputFix.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/O-InputFix.jar",
+				"localPath":"mods/",
+				"md5":"d51775a0d689ba91a0c4ad9ae7ad2516"
+			},
+			{
+				"name":"O-InventoryTweaks-1.59-dev-152.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/O-InventoryTweaks-1.59-dev-152.jar",
+				"localPath":"mods/",
+				"md5":"83f7ddcd5f5fd8d640aa15dc62acc6bf"
+			},
+			{
+				"name":"O-MouseTweaks-2.4.4-mc1.7.10.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/O-MouseTweaks-2.4.4-mc1.7.10.jar",
+				"localPath":"mods/",
+				"md5":"d4968eb0b513066313259fcd80bb8eb0"
+			},
+			{
+				"name":"R-BetterFps-1.0.1.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/R-BetterFps-1.0.1.jar",
+				"localPath":"mods/",
+				"md5":"a319779859b31573ac20cd1aa4b06da7"
+			},
+			{
+				"name":"R-CustomSkinLoader_1.7.10-12.6.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/R-CustomSkinLoader_1.7.10-12.6.jar",
+				"localPath":"mods/",
+				"md5":"c672d83dec3f6598987410b1e8b102e8"
+			},
+			{
+				"name":"R-fastcraft-1.22-ctest8.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/R-fastcraft-1.22-ctest8.jar",
+				"localPath":"mods/",
+				"md5":"6778dffee6ae224b0587cbae23e0cf6d"
+			},
+			{
+				"name":"R-UnicodeFontFixer-1.0.7-mc1.7.10.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/R-UnicodeFontFixer-1.0.7-mc1.7.10.jar",
+				"localPath":"mods/",
+				"md5":""
+			},
+			{
+				"name":"T-buildcraft-7.0.23.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-buildcraft-7.0.23.jar",
+				"localPath":"mods/",
+				"md5":""
+			},
+			{
+				"name":"T-buildcraft-7.0.23.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-buildcraft-7.0.23.jar",
+				"localPath":"mods/",
+				"md5":"bb67274fbcbe4caa27399af995c11292"
+			},
+			{
+				"name":"T-EnderIO-1.7.10-2.2.8.381.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-EnderIO-1.7.10-2.2.8.381.jar",
+				"localPath":"mods/",
+				"md5":"08a0ec390dab975047b85dc23224ffb9"
+			},
+			{
+				"name":"T-ExtraCells-1.7.10-2.2.73b129.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-ExtraCells-1.7.10-2.2.73b129.jar",
+				"localPath":"mods/",
+				"md5":"e427f7638c3a47395c4d7ea838812a09"
+			},
+			{
+				"name":"T-gregtech_1.7.10-5.08.29.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-gregtech_1.7.10-5.08.29.jar",
+				"localPath":"mods/",
+				"md5":"3d308bc4d700e7449ef35b9743e1b004"
+			},
+			{
+				"name":"T-GTTweaker-1.7.10-1.0.1.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-GTTweaker-1.7.10-1.0.1.jar",
+				"localPath":"mods/",
+				"md5":"7a0ab3211cfd084cb617102f88f1cedf"
+			},
+			{
+				"name":"T-ImmersiveEngineering-0.5.4.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-ImmersiveEngineering-0.5.4.jar",
+				"localPath":"mods/",
+				"md5":"06418767bbcd0e92841f2a595d098418"
+			},
+			{
+				"name":"T-industrialcraft-2-2.2.773-experimental.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-industrialcraft-2-2.2.773-experimental.jar",
+				"localPath":"mods/",
+				"md5":"709b3ba1595c96d8b0858f80e3320756"
+			},
+			{
+				"name":"T-Ironchest-1.7.10-6.0.51.734-universal.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-Ironchest-1.7.10-6.0.51.734-universal.jar",
+				"localPath":"mods/",
+				"md5":"a8cd877f40c9064b56dd700c26e081f5"
+			},
+			{
+				"name":"T-ModularPowersuits-0.11.0.7.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-ModularPowersuits-0.11.0.7.jar",
+				"localPath":"mods/",
+				"md5":"8b0e0f53bc24ff81917f23b37627cea1"
+			},
+			{
+				"name":"T-OpenComputers-MC1.7.10-1.5.16.32-universal.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-OpenComputers-MC1.7.10-1.5.16.32-universal.jar",
+				"localPath":"mods/",
+				"md5":"006f284fa84d3db843ec1f2dc783f6f5"
+			},
+			{
+				"name":"T-Railcraft_1.7.10-9.7.0.0.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-Railcraft_1.7.10-9.7.0.0.jar",
+				"localPath":"mods/",
+				"md5":"e72e29cfc4c83a2b1c9ea19617448e51"
+			},
+			{
+				"name":"T-ReactorCraft 1.7.10 V8f.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-ReactorCraft 1.7.10 V8f.jar",
+				"localPath":"mods/",
+				"md5":"cc40ff609b4963549dedf088411dff8e"
+			},
+			{
+				"name":"T-RotaryCraft 1.7.10 V8g.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-RotaryCraft 1.7.10 V8g.jar",
+				"localPath":"mods/",
+				"md5":"10db58c41b9046149b7d49a61b2e8c83"
+			},
+			{
+				"name":"T-ThermalDynamics-1.7.10-1.1.0-161.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-ThermalDynamics-1.7.10-1.1.0-161.jar",
+				"localPath":"mods/",
+				"md5":"501fae0a34ae3d686c3256c68c671f31"
+			},
+			{
+				"name":"T-ThermalExpansion-1.7.10-4.0.3B1-218.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-ThermalExpansion-1.7.10-4.0.3B1-218.jar",
+				"localPath":"mods/",
+				"md5":"91e0bf4dd569c9f71e873186b51b5712"
+			},
+			{
+				"name":"T-ThermalFoundation-1.7.10-1.2.0-102.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/T-ThermalFoundation-1.7.10-1.2.0-102.jar",
+				"localPath":"mods/",
+				"md5":"8c79648de65ca6caecfb0cbb58ae81e2"
+			},
+			{
+				"name":"W-Sub-RWG-alpha-1.3.2.jar",
+				"downloadLink":"http://libertydome.b0.upaiyun.com/SingleFiles/",
+				"localPath":"mods/",
+				"md5":"0617d5693882c1dc82b9b6f59d5c537b"
+			},
+			
+        ]
+    },
+    "startupArguments": " -Xmx2G -Xms1G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M -XX:MaxPermSize=256M -Dfml.ignoreInvalidMinecraftCertificates=true -Dfml.ignorePatchDiscrepancies=true -Djava.library.path={root}/natives -cp {root}/libraries/net/minecraftforge/forge/1.7.10-10.13.4.1492-1.7.10/forge-1.7.10-10.13.4.1492-1.7.10.jar;{root}/libraries/com/mumfrey/liteloader/1.7.10/liteloader-1.7.10.jar;{root}/libraries/net/minecraft/launchwrapper/1.11/launchwrapper-1.11.jar;{root}/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;{root}/libraries/com/google/guava/guava/16.0/guava-16.0.jar;{root}/libraries/net/minecraft/launchwrapper/1.12/launchwrapper-1.12.jar;{root}/libraries/org/ow2/asm/asm-all/5.0.3/asm-all-5.0.3.jar;{root}/libraries/com/typesafe/akka/akka-actor_2.11/2.3.3/akka-actor_2.11-2.3.3.jar;{root}/libraries/com/typesafe/config/1.2.1/config-1.2.1.jar;{root}/libraries/org/scala-lang/scala-actors-migration_2.11/1.1.0/scala-actors-migration_2.11-1.1.0.jar;{root}/libraries/org/scala-lang/scala-compiler/2.11.1/scala-compiler-2.11.1.jar;{root}/libraries/org/scala-lang/plugins/scala-continuations-library_2.11/1.0.2/scala-continuations-library_2.11-1.0.2.jar;{root}/libraries/org/scala-lang/plugins/scala-continuations-plugin_2.11.1/1.0.2/scala-continuations-plugin_2.11.1-1.0.2.jar;{root}/libraries/org/scala-lang/scala-library/2.11.1/scala-library-2.11.1.jar;{root}/libraries/org/scala-lang/scala-parser-combinators_2.11/1.0.1/scala-parser-combinators_2.11-1.0.1.jar;{root}/libraries/org/scala-lang/scala-reflect/2.11.1/scala-reflect-2.11.1.jar;{root}/libraries/org/scala-lang/scala-swing_2.11/1.0.1/scala-swing_2.11-1.0.1.jar;{root}/libraries/org/scala-lang/scala-xml_2.11/1.0.2/scala-xml_2.11-1.0.2.jar;{root}/libraries/lzma/lzma/0.0.1/lzma-0.0.1.jar;{root}/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar;{root}/libraries/com/google/guava/guava/17.0/guava-17.0.jar;{root}/libraries/org/apache/commons/commons-lang3/3.3.2/commons-lang3-3.3.2.jar;{root}/libraries/com/mojang/realms/1.2.4/realms-1.2.4.jar;{root}/libraries/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar;{root}/libraries/org/apache/httpcomponents/httpclient/4.3.3/httpclient-4.3.3.jar;{root}/libraries/commons-logging/commons-logging/1.1.3/commons-logging-1.1.3.jar;{root}/libraries/org/apache/httpcomponents/httpcore/4.3.2/httpcore-4.3.2.jar;{root}/libraries/java3d/vecmath/1.3.1/vecmath-1.3.1.jar;{root}/libraries/net/sf/trove4j/trove4j/3.0.3/trove4j-3.0.3.jar;{root}/libraries/com/ibm/icu/icu4j-core-mojang/51.2/icu4j-core-mojang-51.2.jar;{root}/libraries/net/sf/jopt-simple/jopt-simple/4.5/jopt-simple-4.5.jar;{root}/libraries/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar;{root}/libraries/com/paulscode/codecwav/20101023/codecwav-20101023.jar;{root}/libraries/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar;{root}/libraries/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar;{root}/libraries/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar;{root}/libraries/io/netty/netty-all/4.0.10.Final/netty-all-4.0.10.Final.jar;{root}/libraries/com/google/guava/guava/15.0/guava-15.0.jar;{root}/libraries/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.jar;{root}/libraries/commons-io/commons-io/2.4/commons-io-2.4.jar;{root}/libraries/commons-codec/commons-codec/1.9/commons-codec-1.9.jar;{root}/libraries/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar;{root}/libraries/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar;{root}/libraries/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar;{root}/libraries/com/mojang/authlib/1.5.13/authlib-1.5.13.jar;{root}/libraries/org/apache/logging/log4j/log4j-api/2.0-beta9/log4j-api-2.0-beta9.jar;{root}/libraries/org/apache/logging/log4j/log4j-core/2.0-beta9/log4j-core-2.0-beta9.jar;{root}/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar;{root}/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar;{root}/libraries/tv/twitch/twitch/5.16/twitch-5.16.jar;{root}/LibertyDome-Advanced.jar net.minecraft.launchwrapper.Launch --username {username} --version 1.7.10 --gameDir {root} --assetsDir {root}/assets --assetIndex 1.7.10 --uuid {userId} --accessToken {token} --userProperties {} --userType mojang --tweakClass cpw.mods.fml.common.launcher.FMLTweaker --tweakClass com.mumfrey.liteloader.launch.LiteLoaderTweaker "
+}
