@@ -1,7 +1,7 @@
 {
     "icon": "http://libertydome.b0.upaiyun.com/ldlogo.png",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "1.00A",
+    "version": "1.02",
     "generation": "2",
     "author": "Liberty Dome管理团队",
     "instanceName": "Liberty Dome Elite",
@@ -31,7 +31,7 @@
                 "name": "Scripts",
                 "downloadLink": "http://libertydome.b0.upaiyun.com/scripts.zip",
                 "localPath": "scripts/",
-                "md5": "10649650CE460816A3D4EE677F3B64EE"
+                "md5": "40DF3F7A8FE0572F27CE86EBF9007DC0"
             },
             {
                 "name": "Configs",
@@ -449,7 +449,7 @@
             "-Dfml.ignoreInvalidMinecraftCertificates=true",
             "-Dfml.ignorePatchDiscrepancies=true"
         ],
-        "miniumMemoryMegaSize": 1000,
+        "miniumMemoryMegaSize": 0,
         "nativespath": "natives",
         "libraryPaths": [
             "libraries/net/minecraftforge/forge/1.7.10-10.13.4.1517-1.7.10/forge-1.7.10-10.13.4.1517-1.7.10.jar",
