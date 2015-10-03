@@ -1,11 +1,11 @@
 {
     "icon": "http://libertydome.b0.upaiyun.com/ldlogo.png",
     "background": "http://libertydome.b0.upaiyun.com/ldbg.png",
-    "version": "1.02",
+    "version": "1.04",
     "generation": "2",
     "author": "Liberty Dome管理团队",
     "instanceName": "Liberty Dome Elite",
-    "description": "Liberty Dome 自由苍穹我的世界联机服务器（以下简称“Liberty Dome”）是一个以游戏【Minecraft（我的世界）】为基础的游戏服务器。服务器主要亮点为格雷科技模组，一个知名的Minecraft科技模组。这个模组由服务器管理员【Tehporp 与 Decker CHAN】经原模组作者（外籍）授权许可汉化。模组拥有较成熟完整的体系，同时具有一定的难度，对玩家吸引力较强。定时更新周目，使服务器玩家不断有新的期待。除科技类模组以外，服务器计划建造大量精致的建筑，使服务器不仅仅有生存竞争，同时具有生活的气息。",
+    "description": "更新日志：V1.04 修复了某些mt脚本的问题",
     "updatePath": "http://libertydome.b0.upaiyun.com/LibertyDomeAdv.json",
     "fileSystem": {
         "entirePackageFiles": [
@@ -31,7 +31,7 @@
                 "name": "Scripts",
                 "downloadLink": "http://libertydome.b0.upaiyun.com/scripts.zip",
                 "localPath": "scripts/",
-                "md5": "40DF3F7A8FE0572F27CE86EBF9007DC0"
+                "md5": "FE5FBC9B9D8EB13665134AD140F2CF2C"
             },
             {
                 "name": "Configs",
@@ -412,12 +412,6 @@
                 "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/NEI-neiaddons-1.12.11.36-mc1.7.10.jar",
                 "localPath": "mods/NEI-neiaddons-1.12.11.36-mc1.7.10.jar",
                 "md5": "FFE6D67F665E2F2F8735A1B824D219D0"
-            },
-			{
-                "name": "NEI-NEIIntegration-MC1.7.10-1.0.12.jar",
-                "downloadLink": "http://libertydome.b0.upaiyun.com/SingleFiles/NEI-NEIIntegration-MC1.7.10-1.0.12.jar",
-                "localPath": "mods/NEI-NEIIntegration-MC1.7.10-1.0.12.jar",
-                "md5": "CE52827985C6B803DBE1E19E14CB0317"
             },
 			{
                 "name": "NEI-WailaHarvestability-mc1.7.x-1.1.2.jar",
